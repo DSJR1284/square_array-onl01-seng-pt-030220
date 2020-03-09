@@ -1,4 +1,3 @@
-# Input elements of array 
 
 def square_array(array)
   numbers=[]
