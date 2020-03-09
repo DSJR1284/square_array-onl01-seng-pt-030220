@@ -3,6 +3,6 @@
 def square_array(array)
   numbers=[]
   numbers.each do|number|
-  puts numbers {numbers.**2}
+  puts **2
 end 
 end
